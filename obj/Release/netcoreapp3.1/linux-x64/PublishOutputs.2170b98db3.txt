@@ -1,9 +1,0 @@
-C:\Users\Dbrank\Desktop\api\casino-api\bin\Release\netcoreapp3.1\publish\dynamodb-library.dll
-C:\Users\Dbrank\Desktop\api\casino-api\bin\Release\netcoreapp3.1\publish\dynamodb-library.deps.json
-C:\Users\Dbrank\Desktop\api\casino-api\bin\Release\netcoreapp3.1\publish\dynamodb-library.runtimeconfig.json
-C:\Users\Dbrank\Desktop\api\casino-api\bin\Release\netcoreapp3.1\publish\dynamodb-library.pdb
-C:\Users\Dbrank\Desktop\api\casino-api\bin\Release\netcoreapp3.1\publish\AWSSDK.Core.dll
-C:\Users\Dbrank\Desktop\api\casino-api\bin\Release\netcoreapp3.1\publish\AWSSDK.DynamoDBv2.dll
-C:\Users\Dbrank\Desktop\api\casino-api\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll
-C:\Users\Dbrank\Desktop\api\casino-api\bin\Release\netcoreapp3.1\publish\casino-library.dll
-C:\Users\Dbrank\Desktop\api\casino-api\bin\Release\netcoreapp3.1\publish\casino-library.pdb
