@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>dynamo_db_library</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AWSSDK.DynamoDBv2" Version="3.5.4.18" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\casino-library\casino-library.csproj" />
+  </ItemGroup>
+
+</Project>
