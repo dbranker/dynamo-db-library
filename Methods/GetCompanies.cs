@@ -21,7 +21,7 @@ namespace DynamoDBLibrary.Methods
         //Look for 
         public List<Document> Execute(string input)
         {
-            //Set Table
+            //Setup Table
             Table companyTable = Table.LoadTable(_dbContext.DbClient, tableCompany);
 
             #region INIT REQUEST PARAMS
