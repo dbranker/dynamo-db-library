@@ -1,0 +1,12 @@
+C:\Users\Dbrank\Desktop\api\dynamo-db-library\bin\Debug\netcoreapp3.1\dynamodb-library.deps.json
+C:\Users\Dbrank\Desktop\api\dynamo-db-library\bin\Debug\netcoreapp3.1\dynamodb-library.dll
+C:\Users\Dbrank\Desktop\api\dynamo-db-library\bin\Debug\netcoreapp3.1\dynamodb-library.pdb
+C:\Users\Dbrank\Desktop\api\dynamo-db-library\bin\Debug\netcoreapp3.1\casino-library.dll
+C:\Users\Dbrank\Desktop\api\dynamo-db-library\bin\Debug\netcoreapp3.1\casino-library.pdb
+C:\Users\Dbrank\Desktop\api\dynamo-db-library\obj\Debug\netcoreapp3.1\dynamodb-library.csprojAssemblyReference.cache
+C:\Users\Dbrank\Desktop\api\dynamo-db-library\obj\Debug\netcoreapp3.1\dynamodb-library.AssemblyInfoInputs.cache
+C:\Users\Dbrank\Desktop\api\dynamo-db-library\obj\Debug\netcoreapp3.1\dynamodb-library.AssemblyInfo.cs
+C:\Users\Dbrank\Desktop\api\dynamo-db-library\obj\Debug\netcoreapp3.1\dynamodb-library.csproj.CoreCompileInputs.cache
+C:\Users\Dbrank\Desktop\api\dynamo-db-library\obj\Debug\netcoreapp3.1\dynamodb-library.csproj.CopyComplete
+C:\Users\Dbrank\Desktop\api\dynamo-db-library\obj\Debug\netcoreapp3.1\dynamodb-library.dll
+C:\Users\Dbrank\Desktop\api\dynamo-db-library\obj\Debug\netcoreapp3.1\dynamodb-library.pdb

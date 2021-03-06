@@ -1,0 +1,15 @@
+C:\Users\Dbrank\Desktop\api\dynamo-db-library\bin\Release\netcoreapp3.1\linux-x64\dynamodb-library.deps.json
+C:\Users\Dbrank\Desktop\api\dynamo-db-library\bin\Release\netcoreapp3.1\linux-x64\dynamodb-library.runtimeconfig.json
+C:\Users\Dbrank\Desktop\api\dynamo-db-library\bin\Release\netcoreapp3.1\linux-x64\dynamodb-library.runtimeconfig.dev.json
+C:\Users\Dbrank\Desktop\api\dynamo-db-library\bin\Release\netcoreapp3.1\linux-x64\dynamodb-library.dll
+C:\Users\Dbrank\Desktop\api\dynamo-db-library\bin\Release\netcoreapp3.1\linux-x64\dynamodb-library.pdb
+C:\Users\Dbrank\Desktop\api\dynamo-db-library\bin\Release\netcoreapp3.1\linux-x64\casino-library.dll
+C:\Users\Dbrank\Desktop\api\dynamo-db-library\bin\Release\netcoreapp3.1\linux-x64\casino-library.pdb
+C:\Users\Dbrank\Desktop\api\dynamo-db-library\obj\Release\netcoreapp3.1\linux-x64\dynamodb-library.csprojAssemblyReference.cache
+C:\Users\Dbrank\Desktop\api\dynamo-db-library\obj\Release\netcoreapp3.1\linux-x64\dynamodb-library.AssemblyInfoInputs.cache
+C:\Users\Dbrank\Desktop\api\dynamo-db-library\obj\Release\netcoreapp3.1\linux-x64\dynamodb-library.AssemblyInfo.cs
+C:\Users\Dbrank\Desktop\api\dynamo-db-library\obj\Release\netcoreapp3.1\linux-x64\dynamodb-library.csproj.CoreCompileInputs.cache
+C:\Users\Dbrank\Desktop\api\dynamo-db-library\obj\Release\netcoreapp3.1\linux-x64\dynamodb-library.csproj.CopyComplete
+C:\Users\Dbrank\Desktop\api\dynamo-db-library\obj\Release\netcoreapp3.1\linux-x64\dynamodb-library.dll
+C:\Users\Dbrank\Desktop\api\dynamo-db-library\obj\Release\netcoreapp3.1\linux-x64\dynamodb-library.pdb
+C:\Users\Dbrank\Desktop\api\dynamo-db-library\obj\Release\netcoreapp3.1\linux-x64\dynamodb-library.genruntimeconfig.cache
